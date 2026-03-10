@@ -10,3 +10,5 @@ async def autenticar():
     """
     return {"message": "Você acessou a rota de autenticação", "autentificado": False}
 # dominio/auth/
+
+
